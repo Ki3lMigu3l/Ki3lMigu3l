@@ -48,3 +48,12 @@
 &nbsp;
 &nbsp;
 
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/qui3lmigu3l" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.ki3lmigu3l@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ezequiel-miguel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E2EFF&height=130&section=footer"/>
