@@ -1,12 +1,14 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Ki3lMig3l/Ki3lMig3l/blob/main/github-header.png" />
+<div align="center" style="margin-bottom:200px">
+<img width=70% src="https://github.com/Ki3lMig3l/Ki3lMig3l/blob/main/github-header.png" />
 &nbsp;&nbsp;&nbsp;
+</div>
 
-<p align="center">🚀 Analista de sistemas 👩🏻‍💻. <br><br> Sou um profissional dedicado com experiência como Auxiliar de Analista de Redes. Tenho uma paixão pelo desenvolvimento de soluções eficientes e inovadoras, e estou constantemente aprimorando minhas habilidades em tecnologias como Java, Spring Boot, Angular, TypeScript e Bootstrap. Estou comprometido com o aprendizado contínuo, sempre buscando estar à frente!</p>&nbsp;
+<p align="center">🚀 Analista e desenvolvedor de sistemas 👩🏻‍💻. <br><br> Olá! 👋 Eu sou Ezequiel Miguel, sou um desenvolvedor de sistemas que procura criar soluções inovadoras usando tecnologias como Spring Boot, Java, Angular e TypeScript. Com 20 anos de idade, estou constantemente aprendendo e aprimorando minhas habilidades para oferecer o melhor em cada projeto.</p>&nbsp;
 
  &nbsp;
  &nbsp;
 
-## Studying in this moment: 
+## Tecnologias: 
 
 #### Linguagens de programação, marcação e estilo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -17,9 +19,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Versionamento de código
+#### Versionamento e Hospedagem de código 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
 
 #### Frameworks
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -28,21 +31,25 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
-#### IDE
+
+#### IDE's
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
 
 #### Ferramentas
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
 
 #### Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+&nbsp;
 &nbsp;
 &nbsp;
 
