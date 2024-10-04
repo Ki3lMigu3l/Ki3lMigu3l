@@ -53,28 +53,10 @@
 </div>
 <br>
 
-<!-- Contato -->
-<div align="center">
-    <h2 align="center">Contato</h2>
-    <br>
-    <div style="display: flex; justify-content: center;">
-        <a href="https://www.instagram.com/qui3lmigu3l" target="_blank">
-            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" style="animation: bounce 2s infinite;"/>
-        </a>
-        <a href="mailto:contato.ki3lmigu3l@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" style="animation: bounce 2s infinite;"/>
-        </a>
-        <a href="https://www.linkedin.com/in/ezequiel-miguel/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" style="animation: bounce 2s infinite;"/>
-        </a>
-    </div>
-</div>
-
-<br>
 <!-- Projetos -->
 <br>
 
-<h2 align="center">Projetos</h2>
+<h3 align="center">Projetos</h3>
 <div align="center" style="display: flex; justify-content: center;">
 
 
@@ -87,3 +69,23 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=AuthenticationSystem&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<!-- Contato -->
+<div align="center">
+    <h3 align="center">Contatos</h3>
+    <br>
+    <div style="display: flex; justify-content: center;">
+        <a href="https://www.instagram.com/qui3lmigu3l" target="_blank">
+            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" style="animation: bounce 2s infinite;"/>
+        </a>
+        <a href="mailto:contato.ki3lmigu3l@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="animation: bounce 2s infinite;"/>
+        </a>
+        <a href="https://www.linkedin.com/in/ezequiel-miguel/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="animation: bounce 2s infinite;"/>
+        </a>
+    </div>
+</div>
+
+<br>
+
