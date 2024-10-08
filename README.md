@@ -62,12 +62,12 @@
 
 
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-banco-digital-poo-dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-abstraindo-bootcamp-dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-conta-bancaria-dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-banco-digital-poo-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-banco-digital-poo-dio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-abstraindo-bootcamp-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-abstraindo-bootcamp-dio).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-conta-bancaria-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-conta-bancaria-dio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-sistema-validacao-dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Produtos-API&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=AuthenticationSystem&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Produtos-API&theme=dark)](https://github.com/Ki3lMigu3l/desafio-sistema-validacao-dio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=AuthenticationSystem&theme=dark)](https://github.com/Ki3lMigu3l/AuthenticationSystem)
 
 </div>
 
