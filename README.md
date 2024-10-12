@@ -2,11 +2,11 @@
 <div align="center" class="sub-titulo">
     <h3 align="center">Bem-vindo(a) ao meu repositório!</h3>
 </div>
-        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Me chamo Ezequiel, tenho 21 anos de idade e sou um profissional apaixonado por tecnologia e aprendizado contínuo, com mais de 2 anos de experiência na área de TI e suporte técnico. Como Desenvolvedor Full Stack, tenho expertise em Java, Spring e Angular, além de experiência com tecnologias de CI/CD e Docker.</p>
+        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Meu nome é Ezequiel, tenho 21 anos e sou um profissional altamente motivado e apaixonado por tecnologia. Com mais de 2 anos de experiência, especializei-me como desenvolvedor Java, focando no desenvolvimento de soluções. Como Desenvolvedor Full Stack, possuo expertise no ecossistema Java, incluindo o framework Spring, e na criação de interfaces dinâmicas utilizando Angular. Além disso, tenho experiência prática em CI/CD, Testes unitarios, Banco de dados relacional e Docker, o que me permite implementar processos eficientes de integração e entrega contínua. Estou comprometido em aplicar minhas habilidades técnicas para resolver desafios complexos. Estou sempre em busca de oportunidades que me permitam crescer profissionalmente e impactar positivamente o ambiente em que atuo.</p>
 <br>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ki3lMigu3l&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ki3lMigu3l&show_icons=true&theme=dark)
 <img src="assets/perfil-ki3lmigu3l.png" width="210" height="210" style="border-radius: 50%;">
 
 </div>
@@ -62,12 +62,14 @@
 
 
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-banco-digital-poo-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-banco-digital-poo-dio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-abstraindo-bootcamp-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-abstraindo-bootcamp-dio).
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-conta-bancaria-dio&theme=dark)](https://github.com/Ki3lMigu3l/desafio-conta-bancaria-dio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=desafio-sistema-validacao-dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Produtos-API&theme=dark)](https://github.com/Ki3lMigu3l/desafio-sistema-validacao-dio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=AuthenticationSystem&theme=dark)](https://github.com/Ki3lMigu3l/AuthenticationSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Arrays-Collections-Java&theme=dark)](https://github.com/Ki3lMigu3l/Arrays-Collections-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Campo-Minado-Junit-Java&theme=dark)](https://github.com/Ki3lMigu3l/Campo-Minado-Junit-Java).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Nlw-Journey-Java&theme=dark)](https://github.com/Ki3lMigu3l/Nlw-Journey-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Design-Patterns-Barbearia-Ecommerce-Java&theme=dark)](https://github.com/Ki3lMigu3l/Design-Patterns-Barbearia-Ecommerce-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Selection-Process-Validation-System-Java&theme=dark)](https://github.com/Ki3lMigu3l/Selection-Process-Validation-System-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Desafio-Digital-Bank-POO&theme=dark)](https://github.com/Ki3lMigu3l/Desafio-Digital-Bank-POO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Authentication-System-Java&theme=dark)](https://github.com/Ki3lMigu3l/Authentication-System-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Product-API-SpringBoot&theme=dark)](https://github.com/Ki3lMigu3l/Product-API-SpringBoot)
 
 </div>
 
