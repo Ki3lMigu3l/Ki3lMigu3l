@@ -1,8 +1,10 @@
 <!-- Topo -->
 <div align="center" class="sub-titulo">
-    <h3 align="center">Bem-vindo(a) ao meu repositório!</h3>
+    <h3 align="center">Olá, eu sou Ezequiel! 🚀🏆</h3>
 </div>
-        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Meu nome é Ezequiel, tenho 21 anos e sou um profissional altamente motivado e apaixonado por tecnologia. Com mais de 2 anos de experiência, especializei-me como desenvolvedor Java, focando no desenvolvimento de soluções. Como Desenvolvedor Full Stack, possuo expertise no ecossistema Java, incluindo o framework Spring, e na criação de interfaces dinâmicas utilizando Angular. Além disso, tenho experiência prática em CI/CD, Testes unitarios, Banco de dados relacional e Docker, o que me permite implementar processos eficientes de integração e entrega contínua. Estou comprometido em aplicar minhas habilidades técnicas para resolver desafios complexos. Estou sempre em busca de oportunidades que me permitam crescer profissionalmente e impactar positivamente o ambiente em que atuo.</p>
+        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Bem-vindo ao meu repositorio GitHub! Sou um Desenvolvedor Full Stack de 21 anos de idade, apaixonado por tecnologia e aprendizado continuo. Com forte conhecimento em Java e no ecosistema Spring, dedico-me a criar interfaces dinâmicas com Angular e React, sempre focando na melhor experiência do usuário.</p>
+        <p align="center">Além disso, possuo experiência em práticas de CI/CD, testes unitários, bancos de dados relacionais e Docker, o que me permite desenvolver soluções robustas e eficientes. Estou constantemente buscando aprimorar minhas habilidades e enfrentar desafios complexos no mundo do desenvolvimento de software.</p>
+        <p align="center">Sinta-se à vontade para explorar meus projetos e entrar em contato se desejar discutir colaborações ou aprender mais sobre meu trabalho. Estou sempre aberto a novas oportunidades de crescimento e aprendizado! 🧑‍💻⭐📚</p>
 <br>
 <div align="center">
 
@@ -58,12 +60,10 @@
 <br>
 
 <h3 align="center">Projetos</h3>
-<div align="center" style="display: flex; justify-content: center;">
-
-
-        
+<div align="center" style="display: flex; justify-content: center; gap: 100px;">
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Arrays-Collections-Java&theme=dark)](https://github.com/Ki3lMigu3l/Arrays-Collections-Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Campo-Minado-Junit-Java&theme=dark)](https://github.com/Ki3lMigu3l/Campo-Minado-Junit-Java).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Campo-Minado-Junit-Java&theme=dark)](https://github.com/Ki3lMigu3l/Campo-Minado-Junit-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Nlw-Journey-Java&theme=dark)](https://github.com/Ki3lMigu3l/Nlw-Journey-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Design-Patterns-Barbearia-Ecommerce-Java&theme=dark)](https://github.com/Ki3lMigu3l/Design-Patterns-Barbearia-Ecommerce-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ki3lMigu3l&repo=Selection-Process-Validation-System-Java&theme=dark)](https://github.com/Ki3lMigu3l/Selection-Process-Validation-System-Java)
@@ -73,19 +73,20 @@
 
 </div>
 
+
 <!-- Contato -->
 <div align="center">
     <h3 align="center">Contatos</h3>
     <br>
     <div style="display: flex; justify-content: center;">
         <a href="https://www.instagram.com/qui3lmigu3l" target="_blank">
-            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" style="animation: bounce 2s infinite;"/>
+            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
         </a>
         <a href="mailto:contato.ki3lmigu3l@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="animation: bounce 2s infinite;"/>
+            <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50"/>
         </a>
         <a href="https://www.linkedin.com/in/ezequiel-miguel/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="animation: bounce 2s infinite;"/>
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
         </a>
     </div>
 </div>
