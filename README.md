@@ -2,7 +2,7 @@
 <div align="center" class="sub-titulo">
     <h3 align="center">Olá, eu sou Ezequiel! 🚀🏆</h3>
 </div>
-        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Bem-vindo ao meu repositorio GitHub! Sou um Desenvolvedor Full Stack de 21 anos de idade, apaixonado por tecnologia e aprendizado continuo. Com forte conhecimento em Java e no ecosistema Spring, dedico-me a criar interfaces dinâmicas com Angular e React, sempre focando na melhor experiência do usuário.</p>
+        <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;Bem-vindo ao meu repositorio GitHub! Sou um Desenvolvedor Full Stack de 21 anos de idade, apaixonado por tecnologia e aprendizado continuo. Com forte conhecimento em Java e no ecossistema Spring, dedico-me a criar interfaces dinâmicas com Angular e React, sempre focando na melhor experiência do usuário.</p>
         <p align="center">Além disso, possuo experiência em práticas de CI/CD, testes unitários, bancos de dados relacionais e Docker, o que me permite desenvolver soluções robustas e eficientes. Estou constantemente buscando aprimorar minhas habilidades e enfrentar desafios complexos no mundo do desenvolvimento de software.</p>
         <p align="center">Sinta-se à vontade para explorar meus projetos e entrar em contato se desejar discutir colaborações ou aprender mais sobre meu trabalho. Estou sempre aberto a novas oportunidades de crescimento e aprendizado! 🧑‍💻⭐📚</p>
 <br>
