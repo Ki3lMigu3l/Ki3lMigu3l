@@ -21,7 +21,7 @@
     <!-- Estatísticas do GitHub -->
     <img src="https://github-readme-stats.vercel.app/api?username=Ki3lMigu3l&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Ezequiel Miguel" />
     <!-- Imagem de perfil -->
-    <img src="assets/perfil-ki3lmigu3l.png" alt="Foto de perfil de Ezequiel Miguel" width="210" height="210" style="border-radius: 50%; margin-top: 10px;">
+    <img src="assets/imagem-perfil-vr.png" alt="Foto de perfil de Ezequiel Miguel" width="210" height="210" style="border-radius: 50%; margin-top: 10px;">
 </div>
 
 <!-- Stacks -->
